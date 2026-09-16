@@ -8,6 +8,6 @@ class P06_SumOfTwoNumbers {
 
         // Calculate the sum and output the result
         // Write your program here
-        
+        echo "The sum of the numbers is " . ($numA + $numB) . "\n";
     }
 }
