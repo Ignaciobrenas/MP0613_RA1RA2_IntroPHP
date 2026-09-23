@@ -18,9 +18,6 @@ class P27_CheckingTheAge
         }
         
 
-
-echo"Impossible! \n";
-
        
     }
 }
