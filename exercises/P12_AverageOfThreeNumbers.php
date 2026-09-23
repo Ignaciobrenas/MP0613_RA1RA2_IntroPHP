@@ -9,5 +9,6 @@ class P12_AverageOfThreeNumbers {
 
         // Output the formula and result
         // Write the program here
+        echo "The average is " . (($numA + $numB + $numc) / 3) . "\n";
     }
 }
